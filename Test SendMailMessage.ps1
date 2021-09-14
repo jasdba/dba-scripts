@@ -1,0 +1,1 @@
+Send-MailMessage -From londamb.SQLdbmail@nhs.net -To kais.al-dabbagh@nhs.net, jaseem.khan@nhs.net  -Subject "Test Email" -Body "Test mail" -SmtpServer smtp.office365.com -Credential $creds -UseSsl -Port 587

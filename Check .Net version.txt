@@ -1,0 +1,5 @@
+
+Control Panel > Programs > Programs and Features 
+
+locate "Microsoft . NET Framework" and verify the version in the Version column to the right.
+

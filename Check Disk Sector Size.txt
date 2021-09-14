@@ -1,0 +1,3 @@
+--Check Disk Sector Size
+
+fsutil fsinfo ntfsinfo <drive letter or mount point location>
